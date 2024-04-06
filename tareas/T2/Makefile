@@ -5,8 +5,8 @@
 
 PROB=reservar
 
-SRCS= test-$(PROB).c $(PROB).c pss.c
-HDRS= $(PROB).h pss.h
+SRCS= test-$(PROB).c $(PROB).c
+HDRS= $(PROB).h
 
 SHELL=bash -o pipefail
 
