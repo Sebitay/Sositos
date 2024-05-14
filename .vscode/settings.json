@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nthread-impl.h": "c",
+        "rwlock.h": "c"
+    }
+}
